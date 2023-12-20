@@ -1,0 +1,2 @@
+2023-05-02T21:43:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Applications/MAMP/htdocs/Planty Projet/wp-content/plugins/woocommerce/src/Admin/Features/PaymentGatewaySuggestions/PaymentGatewaysController.php à la ligne 1
+
